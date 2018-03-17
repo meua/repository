@@ -1,0 +1,2 @@
+# repository
+idea setting repository
